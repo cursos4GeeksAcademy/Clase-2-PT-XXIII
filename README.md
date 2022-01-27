@@ -12,7 +12,8 @@ The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](
 
 Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
 
-Cree pun archivo llamado `index.html` con la estructura básica de HTML y podrá ver su resultado ejecutando un servidor web  escribiendo el siguiente comando :
+Cree un archivo llamado `index.html` con la estructura básica de HTML y podrá ver su resultado ejecutando un servidor web  con el siguiente comando :
+
 ```sh
 $ pip3 install flask && python3 server.py
 ```
@@ -24,11 +25,12 @@ _nota: el $ no se escribe_
 ### - _Linea de comandos : Existen programadores que no usan el mouse y en línea de comandos sólamente dependemos de nuestro teclado_
 
 #### Conceptos vistos:
+- HTML + CSS
 - Bootsrap
 - Línea de comandos
 ## Descripcion de la clase 🚀
 
-_En esta clase vimos ._
+_En esta clase vimos ..._
 
 + Pueden seguir practicando con lo que esta en breathcode.
 + A continuación les dejaremos unos link para el seguir investigando y practicando.
