@@ -7,9 +7,9 @@
 
 #### Conceptos vistos:
 - Bootsrap
-  Sistema de Grillas
-  Componentes
-  Espaciado
+  -Sistema de Grillas
+  -Componentes
+  -Espaciado
 
 _Presentación utilizada en la clase :_
 
