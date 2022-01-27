@@ -19,7 +19,7 @@ _Links Adicionales:_
 # Tarea de la Clase de hoy
 ### The Instagram Photo Feed (with Bootstrap)
 _link del repositorio con el enunciado_ : https://github.com/breatheco-de/exercise-instagram-feed-bootstrap
-## En esta clase utilizaremos el Boilerplate HTML-HELLO 
+## Para realizar la tarea utilizaremos el Boilerplate HTML-HELLO 
 ### _Click en ícono de gitpod para ver el BoilerPlate_
 [![Open in Gitpod ](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
 
