@@ -6,10 +6,7 @@
 ### - _Bootsrap : ¿Nuestro mejor amigo o enemigo para el diseño de interfaces durante la academia?_
 
 #### Conceptos vistos:
-- Bootsrap
-  -Sistema de Grillas
-  -Componentes
-  -Espaciado
+- Bootsrap: Sistema de Grillas, Componentes y Espaciado
 
 _Presentación utilizada en la clase :_
 
